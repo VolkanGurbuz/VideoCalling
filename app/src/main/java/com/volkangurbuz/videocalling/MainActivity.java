@@ -20,9 +20,9 @@ import pub.devrel.easypermissions.EasyPermissions;
 public class MainActivity extends AppCompatActivity implements Session.SessionListener, PublisherKit.PublisherListener{
 
 
-    private static String API_KEY = "46069612";
-    private static String SESSION_ID = "1_MX40NjA2OTYxMn5-MTUxOTgxNDM3MDIwMH5xTGV3Qm1xRmwxSmxtTHVQRXhRbjRXWTF-fg";
-    private static String TOKEN = "T1==cGFydG5lcl9pZD00NjA2OTYxMiZzaWc9YWQ1ZWQxMWRiYTI5MjNlZjdiOWYwYjZhZTlhZDExYmIxYjA4ZDcxMDpzZXNzaW9uX2lkPTFfTVg0ME5qQTJPVFl4TW41LU1UVXhPVGd4TkRNM01ESXdNSDV4VEdWM1FtMXhSbXd4U214dFRIVlFSWGhSYmpSWFdURi1mZyZjcmVhdGVfdGltZT0xNTE5ODE0NDI2Jm5vbmNlPTAuOTA1NTU0MzI1NDYwNTEwNyZyb2xlPXB1Ymxpc2hlciZleHBpcmVfdGltZT0xNTE5ODM2MDI0JmluaXRpYWxfbGF5b3V0X2NsYXNzX2xpc3Q9";
+    private static String API_KEY = "api_key here";
+    private static String SESSION_ID = "session id here";
+    private static String TOKEN = "token here";
     private static String LOG_TAG = MainActivity.class.getSimpleName();
     private static final int RC_setting = 123;
 
